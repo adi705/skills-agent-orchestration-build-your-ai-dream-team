@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Maya Chen",
+      "status": "On track",
+      "recentActivity": "Published the refreshed getting-started guide and welcomed three new contributors.",
+      "priority": "High",
+      "summary": "Make the first contribution feel clear, friendly, and easy to complete."
+    },
+    {
+      "name": "Community Roadmap",
+      "owner": "Jordan Lee",
+      "status": "In progress",
+      "recentActivity": "Collected feedback from the community call and grouped the top requests.",
+      "priority": "Medium",
+      "summary": "Turn community feedback into a shared, transparent view of what comes next."
+    },
+    {
+      "name": "Documentation Refresh",
+      "owner": "Sam Rivera",
+      "status": "Needs attention",
+      "recentActivity": "Found several outdated setup steps; updates are being reviewed this week.",
+      "priority": "High",
+      "summary": "Keep project guidance accurate, searchable, and useful for every contributor."
+    },
+    {
+      "name": "Release Readiness",
+      "owner": "Alex Morgan",
+      "status": "On track",
+      "recentActivity": "Finished the release checklist review and confirmed the remaining owners.",
+      "priority": "Low",
+      "summary": "Coordinate the final checks so the next release is predictable and smooth."
+    }
+  ]
+}
